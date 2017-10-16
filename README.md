@@ -6,6 +6,8 @@ LeetCode solutions in C/C++
 |---|-----|--------|--------|----------|
 |1|[Merge Two Sorted Lists][1]|[C](01.Merge%20Two%20Sorted%20Lists/solution.cpp)|2017.10.16|Easy|
 |2|[Remove Duplicates from Sorted List][2]|[C](002.Remove%20Duplicates%20from%20Sorted%20List/solution.cpp)|2017.10.16|Easy|
+|3|[Linked List Cycle][3]|[C](003.Linked%20List%20Cycle/solution.cpp)|2017.10.16|Easy|
 
 [1]:https://leetcode.com/problems/merge-two-sorted-lists/description/
 [2]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
+[3]:https://leetcode.com/problems/linked-list-cycle/description/
