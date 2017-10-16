@@ -28,8 +28,7 @@ Given 1->1->2->3->3, return 1->2->3.
 	    }
 	    return head;
 	}
-这是我最开始的代码，由于没考虑**空链表**的情况，所以报出了 `member access within null pointer of type 'struct ListNode'`的错误提示。  
-（`head`如果为`null`, 则`head->next`不存在）  
+这是我最开始的代码，由于没考虑**空链表**的情况，所以报出了 `member access within null pointer of type 'struct ListNode'`的错误提示。（`head`如果为`null`, 则`head->next`不存在）   
 改进后的代码如下：
 
 	struct ListNode* deleteDuplicates(struct ListNode* head) 
