@@ -8,8 +8,7 @@
 struct ListNode* deleteDuplicates(struct ListNode* head) 
 {
     struct ListNode* curr = NULL;
-    struct ListNode* prev = head;
-    
+    struct ListNode* prev = head;  
     while(prev != NULL)
     {
         if(prev == head)
