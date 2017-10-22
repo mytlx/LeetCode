@@ -11,6 +11,7 @@ LeetCode solutions in C/C++
 |5|[Intersection of Two Linked Lists][5]|[Linked List][Tag Linked List]|[C++](005.Intersection%20of%20Two%20Linked%20Lists/solution.h)|2017.10.18|Easy|
 |6|[Palindrome Linked List][6]|[Linked List][Tag Linked List]|[C++](006.Palindrome%20Linked%20List/solution.h)|2017.10.20|Easy|
 |7|[Add Two Numbers][7]|[Linked List][Tag Linked List]|[C++](007.Add%20Two%20Numbers/solution2.h)|2017.10.21|Medium|
+|8|[Add Two Numbers II][8]|[Linked List][Tag Linked List]|[C++](008.Add%20Two%20Numbers%20II/solution.h)|2017.10.22|Medium|
 
 [1]:https://leetcode.com/problems/merge-two-sorted-lists/description/
 [2]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
@@ -19,5 +20,6 @@ LeetCode solutions in C/C++
 [5]:https://leetcode.com/problems/intersection-of-two-linked-lists/description/
 [6]:https://leetcode.com/problems/reverse-linked-list/description/
 [7]:https://leetcode.com/problems/add-two-numbers/description/
+[8]:https://leetcode.com/problems/add-two-numbers-ii/description/
 
 [Tag Linked List]:https://leetcode.com/problemset/all/?topicSlugs=linked-list
