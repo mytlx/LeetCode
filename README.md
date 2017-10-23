@@ -12,6 +12,7 @@ LeetCode solutions in C/C++
 |6|[Palindrome Linked List][6]|[Linked List][Tag Linked List]|[C++](006.Palindrome%20Linked%20List/solution.h)|2017.10.20|Easy|
 |7|[Add Two Numbers][7]|[Linked List][Tag Linked List]|[C++](007.Add%20Two%20Numbers/solution2.h)|2017.10.21|Medium|
 |8|[Add Two Numbers II][8]|[Linked List][Tag Linked List]|[C++](008.Add%20Two%20Numbers%20II/solution.h)|2017.10.22|Medium|
+|9|[Copy List with Random Pointer][9]|[Linked List][Tag Linked List]|[C++](009.Copy%20List%20with%20Random%20Pointer/solution.h)|2017.10.23|Medium|
 
 [1]:https://leetcode.com/problems/merge-two-sorted-lists/description/
 [2]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
@@ -21,5 +22,6 @@ LeetCode solutions in C/C++
 [6]:https://leetcode.com/problems/reverse-linked-list/description/
 [7]:https://leetcode.com/problems/add-two-numbers/description/
 [8]:https://leetcode.com/problems/add-two-numbers-ii/description/
+[9]:https://leetcode.com/problems/copy-list-with-random-pointer/description/
 
 [Tag Linked List]:https://leetcode.com/problemset/all/?topicSlugs=linked-list
