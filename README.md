@@ -14,6 +14,7 @@ LeetCode solutions in C/C++
 |8|[Add Two Numbers II][8]|[Linked List][Tag Linked List]|[C++](008.Add%20Two%20Numbers%20II/solution.h)|2017.10.22|Medium|
 |9|[Copy List with Random Pointer][9]|[Linked List][Tag Linked List]|[C++](009.Copy%20List%20with%20Random%20Pointer/solution.h)|2017.10.23|Medium|
 |10|[Linked List Cycle II][10]|[Linked List][Tag Linked List]|[C++](010.Linked%20List%20Cycle%20II)|2017.10.23|Medium|
+|11|[Partition List][11]|[Linked List][Tag Linked List]|[C++](011.Partition%20List/solution.h)|2017.10.26|Medium|
 
 [1]:https://leetcode.com/problems/merge-two-sorted-lists/description/
 [2]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
@@ -25,5 +26,6 @@ LeetCode solutions in C/C++
 [8]:https://leetcode.com/problems/add-two-numbers-ii/description/
 [9]:https://leetcode.com/problems/copy-list-with-random-pointer/description/
 [10]:https://leetcode.com/problems/linked-list-cycle-ii/description/
+[11]:https://leetcode.com/problems/partition-list/description/
 
 [Tag Linked List]:https://leetcode.com/problemset/all/?topicSlugs=linked-list
