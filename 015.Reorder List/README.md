@@ -19,8 +19,7 @@
 	    slow = slow->next;
 	    fast = fast->next->next;
 	}
-	prev->next = NULL;  //截断链表
-	</pre>
+	prev->next = NULL;  //截断链表</pre>
 
 
 2. **reverse**
@@ -36,8 +35,7 @@
             curr = succ;
         }
         return prev;
-    }
-	</pre>
+    }</pre>
 
 3. **merge**
 	<pre>
@@ -51,8 +49,7 @@
         curr->next->next = tmp;
         curr = tmp;
     }
-    curr->next = slow;
-    </pre>
+    curr->next = slow;</pre>
 
 
 [1]:https://leetcode.com/problems/reorder-list/description/
