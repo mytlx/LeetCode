@@ -17,6 +17,7 @@ LeetCode solutions in C/C++
 |11|[Partition List][11]|[Linked List][Tag Linked List]|[C++](011.Partition%20List/solution.h)|2017.10.26|Medium|
 |12|[Odd Even Linked List][12]|[Linked List][Tag Linked List]|[C++](012.Odd%20Even%20Linked%20List/solution.h)|2017.10.26|Medium|
 |13|[Remove Duplicates from Sorted List II][13]|[Linked List][Tag Linked List]|[C++](013.Remove%20Duplicates%20from%20Sorted%20List%20II)|2017.10.27|Medium|
+|14|[Remove Nth Node From End of List][14]|[Linked List][Tag Linked List]|[C++](014.Remove%20Nth%20Node%20From%20End%20of%20List)|2017.10.27|Medium|
 
 [1]:https://leetcode.com/problems/merge-two-sorted-lists/description/
 [2]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
@@ -31,5 +32,6 @@ LeetCode solutions in C/C++
 [11]:https://leetcode.com/problems/partition-list/description/
 [12]:https://leetcode.com/problems/odd-even-linked-list/description/
 [13]:https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/
+[14]:https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
 
 [Tag Linked List]:https://leetcode.com/problemset/all/?topicSlugs=linked-list
