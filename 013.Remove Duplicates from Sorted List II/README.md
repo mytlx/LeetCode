@@ -98,4 +98,4 @@
 	};
   
   [1]:https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/
-  [2]:github.com/mytlx/LeetCode/tree/master/002.Remove%20Duplicates%20from%20Sorted%20List
+  [2]:https://github.com/mytlx/LeetCode/tree/master/002.Remove%20Duplicates%20from%20Sorted%20List
