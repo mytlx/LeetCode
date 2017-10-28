@@ -20,6 +20,7 @@ LeetCode solutions in C/C++
 |14|[Remove Nth Node From End of List][14]|[Linked List][Tag Linked List]|[C++](014.Remove%20Nth%20Node%20From%20End%20of%20List)|2017.10.27|Medium|
 |15|[Reorder List][15]|[Linked List][Tag Linked List]|[C++](015.Reorder%20List)|2017.10.27|Medium|
 |16|[Reverse Linked List II][16]|[Linked List][Tag Linked List]|[C++](016.Reverse%20Linked%20List%20II)|2017.10.28|Medium|
+|17|[Rotate List][17]|[Linked List][Tag Linked List]|[C++](017.Rotate%20List)|2017.10.28|Medium|
 
 [1]:https://leetcode.com/problems/merge-two-sorted-lists/description/
 [2]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
@@ -37,5 +38,6 @@ LeetCode solutions in C/C++
 [14]:https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
 [15]:https://leetcode.com/problems/reorder-list/description/
 [16]:https://leetcode.com/problems/reverse-linked-list-ii/description/
+[17]:https://leetcode.com/problems/rotate-list/description/
 
 [Tag Linked List]:https://leetcode.com/problemset/all/?topicSlugs=linked-list
