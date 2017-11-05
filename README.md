@@ -23,6 +23,8 @@ LeetCode solutions in C/C++
 |17|[Rotate List][17]|[Linked List][Tag Linked List]|[C++](017.Rotate%20List)|2017.10.28|Medium|
 |18|[Swap Nodes in Pairs][18]|[Linked List][Tag Linked List]|[C++](018.Swap%20Nodes%20in%20Pairs)|2017.10.29|Medium|
 |19|[Reverse Nodes in k-Group][19]|[Linked List][Tag Linked List]|[C++](019.Reverse%20Nodes%20in%20k-Group)|2017.10.30|Hard|
+|20|[Merge k Sorted Lists][20]|[Linked List][Tag Linked List]|[C++](020.Merge%20k%20Sorted%20Lists)|2017.11.5|Hard|
+
 
 [1]:https://leetcode.com/problems/merge-two-sorted-lists/description/
 [2]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
@@ -43,5 +45,6 @@ LeetCode solutions in C/C++
 [17]:https://leetcode.com/problems/rotate-list/description/
 [18]:https://leetcode.com/problems/swap-nodes-in-pairs/description/
 [19]:https://leetcode.com/problems/reverse-nodes-in-k-group/description/
+[20]:https://leetcode.com/problems/merge-k-sorted-lists/description/
 
 [Tag Linked List]:https://leetcode.com/problemset/all/?topicSlugs=linked-list
