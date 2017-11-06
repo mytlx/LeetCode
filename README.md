@@ -24,6 +24,8 @@ LeetCode solutions in C/C++
 |18|[Swap Nodes in Pairs][18]|[Linked List][Tag Linked List]|[C++](018.Swap%20Nodes%20in%20Pairs)|2017.10.29|Medium|
 |19|[Reverse Nodes in k-Group][19]|[Linked List][Tag Linked List]|[C++](019.Reverse%20Nodes%20in%20k-Group)|2017.10.30|Hard|
 |20|[Merge k Sorted Lists][20]|[Linked List][Tag Linked List]|[C++](020.Merge%20k%20Sorted%20Lists)|2017.11.5|Hard|
+|21|[Two Sum][21]|[Array][Tag Array]|[C++](021.Two%20Sum)|2017.11.6|Easy|
+|22|[Two Sum II - Input array is sorted][22]|[Array][Tag Array]|[C++](022.Two%20Sum%20II%20-%20Input%20array%20is%20sorted)|2017.11.6|Easy|
 
 
 [1]:https://leetcode.com/problems/merge-two-sorted-lists/description/
@@ -46,5 +48,8 @@ LeetCode solutions in C/C++
 [18]:https://leetcode.com/problems/swap-nodes-in-pairs/description/
 [19]:https://leetcode.com/problems/reverse-nodes-in-k-group/description/
 [20]:https://leetcode.com/problems/merge-k-sorted-lists/description/
+[21]:https://leetcode.com/problems/two-sum/description/
+[22]:https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 
 [Tag Linked List]:https://leetcode.com/problemset/all/?topicSlugs=linked-list
+[Tag Array]:https://leetcode.com/problemset/all/?topicSlugs=array
