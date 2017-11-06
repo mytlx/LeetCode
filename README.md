@@ -26,6 +26,7 @@ LeetCode solutions in C/C++
 |20|[Merge k Sorted Lists][20]|[Linked List][Tag Linked List]|[C++](020.Merge%20k%20Sorted%20Lists)|2017.11.5|Hard|
 |21|[Two Sum][21]|[Array][Tag Array]|[C++](021.Two%20Sum)|2017.11.6|Easy|
 |22|[Two Sum II - Input array is sorted][22]|[Array][Tag Array]|[C++](022.Two%20Sum%20II%20-%20Input%20array%20is%20sorted)|2017.11.6|Easy|
+|23|[Array Partition I][23]|[Array][Tag Array]|[C++](023.Array%20Partition%20I)|2017.11.6|Easy|
 
 
 [1]:https://leetcode.com/problems/merge-two-sorted-lists/description/
@@ -50,6 +51,7 @@ LeetCode solutions in C/C++
 [20]:https://leetcode.com/problems/merge-k-sorted-lists/description/
 [21]:https://leetcode.com/problems/two-sum/description/
 [22]:https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
+[23]:https://leetcode.com/problems/array-partition-i/description/
 
 [Tag Linked List]:https://leetcode.com/problemset/all/?topicSlugs=linked-list
 [Tag Array]:https://leetcode.com/problemset/all/?topicSlugs=array
