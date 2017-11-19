@@ -29,7 +29,7 @@ LeetCode solutions in C/C++
 |23|[Array Partition I][23]|[Array][Tag Array]|[C++](023.Array%20Partition%20I)|2017.11.6|Easy|
 |24|[Remove Duplicates from Sorted Array][24]|[Array][Tag Array]|[C++](024.Remove%20Duplicates%20from%20Sorted%20Array)|2017.11.6|Easy|
 |25|[Max Consecutive Ones][25]|[Array][Tag Array]|[C++](025.Max%20Consecutive%20Ones)|2017.11.19|Easy|
-
+|26|[1-bit and 2-bit Characters][26]|[Array][Tag Array]|[C++](026.1-bit%20and%202-bit%20Characters)|2017.11.19|Easy|
 
 [1]:https://leetcode.com/problems/merge-two-sorted-lists/description/
 [2]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
@@ -56,6 +56,7 @@ LeetCode solutions in C/C++
 [23]:https://leetcode.com/problems/array-partition-i/description/
 [24]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 [25]:https://leetcode.com/problems/max-consecutive-ones/description/
+[26]:https://leetcode.com/problems/1-bit-and-2-bit-characters/description/
 
 [Tag Linked List]:https://leetcode.com/problemset/all/?topicSlugs=linked-list
 [Tag Array]:https://leetcode.com/problemset/all/?topicSlugs=array
