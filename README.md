@@ -28,6 +28,7 @@ LeetCode solutions in C/C++
 |22|[Two Sum II - Input array is sorted][22]|[Array][Tag Array]|[C++](022.Two%20Sum%20II%20-%20Input%20array%20is%20sorted)|2017.11.6|Easy|
 |23|[Array Partition I][23]|[Array][Tag Array]|[C++](023.Array%20Partition%20I)|2017.11.6|Easy|
 |24|[Remove Duplicates from Sorted Array][24]|[Array][Tag Array]|[C++](024.Remove%20Duplicates%20from%20Sorted%20Array)|2017.11.6|Easy|
+|25|[Max Consecutive Ones][25]|[Array][Tag Array]|[C++](025.Max%20Consecutive%20Ones)|2017.11.19|Easy|
 
 
 [1]:https://leetcode.com/problems/merge-two-sorted-lists/description/
@@ -54,6 +55,7 @@ LeetCode solutions in C/C++
 [22]:https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 [23]:https://leetcode.com/problems/array-partition-i/description/
 [24]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+[25]:https://leetcode.com/problems/max-consecutive-ones/description/
 
 [Tag Linked List]:https://leetcode.com/problemset/all/?topicSlugs=linked-list
 [Tag Array]:https://leetcode.com/problemset/all/?topicSlugs=array
