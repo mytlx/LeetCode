@@ -30,6 +30,9 @@ LeetCode solutions in C/C++
 |24|[Remove Duplicates from Sorted Array][24]|[Array][Tag Array]|[C++](024.Remove%20Duplicates%20from%20Sorted%20Array)|2017.11.6|Easy|
 |25|[Max Consecutive Ones][25]|[Array][Tag Array]|[C++](025.Max%20Consecutive%20Ones)|2017.11.19|Easy|
 |26|[1-bit and 2-bit Characters][26]|[Array][Tag Array]|[C++](026.1-bit%20and%202-bit%20Characters)|2017.11.19|Easy|
+|27|[Move Zeroes][27]|[Array][Tag Array]|[C++](027.Move%20Zeroes)|2017.11.20|Easy|
+
+
 
 [1]:https://leetcode.com/problems/merge-two-sorted-lists/description/
 [2]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
@@ -57,6 +60,7 @@ LeetCode solutions in C/C++
 [24]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 [25]:https://leetcode.com/problems/max-consecutive-ones/description/
 [26]:https://leetcode.com/problems/1-bit-and-2-bit-characters/description/
+[27]:https://leetcode.com/problems/move-zeroes/description/
 
 [Tag Linked List]:https://leetcode.com/problemset/all/?topicSlugs=linked-list
 [Tag Array]:https://leetcode.com/problemset/all/?topicSlugs=array
