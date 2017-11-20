@@ -32,6 +32,7 @@ LeetCode solutions in C/C++
 |26|[1-bit and 2-bit Characters][26]|[Array][Tag Array]|[C++](026.1-bit%20and%202-bit%20Characters)|2017.11.19|Easy|
 |27|[Move Zeroes][27]|[Array][Tag Array]|[C++](027.Move%20Zeroes)|2017.11.20|Easy|
 |28|[Majority Element][28]|[Array][Tag Array]|[C++](028.Majority%20Element)|2017.11.20|Easy|
+|29|[Find All Numbers Disappeared in an Array][29]|[Array][Tag Array]|[C++](029.Find%20All%20Numbers%20Disappeared%20in%20an%20Array)|2017.11.20|Easy|
 
 
 
@@ -63,6 +64,7 @@ LeetCode solutions in C/C++
 [26]:https://leetcode.com/problems/1-bit-and-2-bit-characters/description/
 [27]:https://leetcode.com/problems/move-zeroes/description/
 [28]:https://leetcode.com/problems/majority-element/description/
+[29]:https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
 
 [Tag Linked List]:https://leetcode.com/problemset/all/?topicSlugs=linked-list
 [Tag Array]:https://leetcode.com/problemset/all/?topicSlugs=array
