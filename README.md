@@ -33,6 +33,7 @@ LeetCode solutions in C/C++
 |27|[Move Zeroes][27]|[Array][Tag Array]|[C++](027.Move%20Zeroes)|2017.11.20|Easy|
 |28|[Majority Element][28]|[Array][Tag Array]|[C++](028.Majority%20Element)|2017.11.20|Easy|
 |29|[Find All Numbers Disappeared in an Array][29]|[Array][Tag Array]|[C++](029.Find%20All%20Numbers%20Disappeared%20in%20an%20Array)|2017.11.20|Easy|
+|30|[Contains Duplicate][30]|[Array][Tag Array]|[C++](030.Contains%20Duplicate)|2017.11.21|Easy|
 
 
 
@@ -65,6 +66,7 @@ LeetCode solutions in C/C++
 [27]:https://leetcode.com/problems/move-zeroes/description/
 [28]:https://leetcode.com/problems/majority-element/description/
 [29]:https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
+[30]:https://leetcode.com/problems/contains-duplicate/description/
 
 [Tag Linked List]:https://leetcode.com/problemset/all/?topicSlugs=linked-list
 [Tag Array]:https://leetcode.com/problemset/all/?topicSlugs=array
