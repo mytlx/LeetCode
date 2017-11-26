@@ -34,6 +34,7 @@ LeetCode solutions in C/C++
 |28|[Majority Element][28]|[Array][Tag Array]|[C++](028.Majority%20Element)|2017.11.20|Easy|
 |29|[Find All Numbers Disappeared in an Array][29]|[Array][Tag Array]|[C++](029.Find%20All%20Numbers%20Disappeared%20in%20an%20Array)|2017.11.20|Easy|
 |30|[Contains Duplicate][30]|[Array][Tag Array]|[C++](030.Contains%20Duplicate)|2017.11.21|Easy|
+|31|[Maximum Product of Three Numbers][31]|[Array][Tag Array]|[C++](031.Maximum%20Product%20of%20Three%20Numbers)|2017.11.26|Easy|
 
 
 
@@ -67,6 +68,7 @@ LeetCode solutions in C/C++
 [28]:https://leetcode.com/problems/majority-element/description/
 [29]:https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
 [30]:https://leetcode.com/problems/contains-duplicate/description/
+[31]:https://leetcode.com/problems/maximum-product-of-three-numbers/description/
 
 [Tag Linked List]:https://leetcode.com/problemset/all/?topicSlugs=linked-list
 [Tag Array]:https://leetcode.com/problemset/all/?topicSlugs=array
