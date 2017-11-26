@@ -38,6 +38,7 @@ LeetCode solutions in C/C++
 |32|[Missing Number][32]|[Array][Tag Array]|[C++](032.Missing%20Number)|2017.11.26|Easy|
 |33|[Longest Continuous Increasing Subsequence][33]|[Array][Tag Array]|[C++](033.Longest%20Continuous%20Increasing%20Subsequence)|2017.11.26|Easy|
 |34|[Best Time to Buy and Sell Stock][34]|[Array][Tag Array]|[C++](034.Best%20Time%20to%20Buy%20and%20Sell%20Stock)|2017.11.26|Easy|
+|35|[Find Pivot Index][35]|[Array][Tag Array]|[C++](035.Find%20Pivot%20Index)|2017.11.26|Easy|
 
 
 [1]:https://leetcode.com/problems/merge-two-sorted-lists/description/
@@ -74,6 +75,8 @@ LeetCode solutions in C/C++
 [32]:https://leetcode.com/problems/missing-number/description/
 [33]:https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/
 [34]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+[35]:https://leetcode.com/problems/find-pivot-index/description/
+
 
 [Tag Linked List]:https://leetcode.com/problemset/all/?topicSlugs=linked-list
 [Tag Array]:https://leetcode.com/problemset/all/?topicSlugs=array
