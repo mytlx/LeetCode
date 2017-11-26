@@ -36,6 +36,7 @@ LeetCode solutions in C/C++
 |30|[Contains Duplicate][30]|[Array][Tag Array]|[C++](030.Contains%20Duplicate)|2017.11.21|Easy|
 |31|[Maximum Product of Three Numbers][31]|[Array][Tag Array]|[C++](031.Maximum%20Product%20of%20Three%20Numbers)|2017.11.26|Easy|
 |32|[Missing Number][32]|[Array][Tag Array]|[C++](032.Missing%20Number)|2017.11.26|Easy|
+|33|[Longest Continuous Increasing Subsequence][33]|[Array][Tag Array]|[C++](033.Longest%20Continuous%20Increasing%20Subsequence)|2017.11.26|Easy|
 
 
 [1]:https://leetcode.com/problems/merge-two-sorted-lists/description/
@@ -70,6 +71,7 @@ LeetCode solutions in C/C++
 [30]:https://leetcode.com/problems/contains-duplicate/description/
 [31]:https://leetcode.com/problems/maximum-product-of-three-numbers/description/
 [32]:https://leetcode.com/problems/missing-number/description/
+[33]:https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/
 
 [Tag Linked List]:https://leetcode.com/problemset/all/?topicSlugs=linked-list
 [Tag Array]:https://leetcode.com/problemset/all/?topicSlugs=array
