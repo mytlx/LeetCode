@@ -40,6 +40,7 @@ LeetCode solutions in C/C++
 |34|[Best Time to Buy and Sell Stock][34]|[Array][Tag Array]|[C++](034.Best%20Time%20to%20Buy%20and%20Sell%20Stock)|2017.11.26|Easy|
 |35|[Find Pivot Index][35]|[Array][Tag Array]|[C++](035.Find%20Pivot%20Index)|2017.11.26|Easy|
 |36|[Maximum Subarray][36]|[Array][Tag Array]|[C++](036.Maximum%20Subarray)|2017.11.28|Easy|
+|37|[Remove Element][37]|[Array][Tag Array]|[C++](037.Remove%20Element)|2017.11.28|Easy|
 
 
 [1]:https://leetcode.com/problems/merge-two-sorted-lists/description/
@@ -78,6 +79,7 @@ LeetCode solutions in C/C++
 [34]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 [35]:https://leetcode.com/problems/find-pivot-index/description/
 [36]:https://leetcode.com/problems/maximum-subarray/description/
+[37]:https://leetcode.com/problems/remove-element/description/
 
 
 [Tag Linked List]:https://leetcode.com/problemset/all/?topicSlugs=linked-list
